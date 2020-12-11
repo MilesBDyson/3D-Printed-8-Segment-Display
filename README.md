@@ -9,4 +9,4 @@
   The Display is PCB compliant if you wish to mount them on one.
   can be driven by 74HC595 shift register, one per Digit. 
   
-  ![alt text](Medium.png)
+  ![alt text](images/Medium.png)
