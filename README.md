@@ -11,3 +11,4 @@
   can be driven by 74HC595 shift register, one per Digit. 
   
   ![alt text](images/Medium.png)
+[![Hits](https://hits.sh/github.com/MilesBDyson/3D-Printed-8-Segment-Display.svg)](https://hits.sh/github.com/MilesBDyson/3D-Printed-8-Segment-Display/)
